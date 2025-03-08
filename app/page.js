@@ -4,7 +4,8 @@ export default function Home() {
     <div>
       <h1 className="container mx-auto flex justify-center text-5xl">Vasishta Malisetty</h1>
       <p className="container mx-auto flex justify-center p-4 text-2xl">Electrical & Computer Engineering @ Northeastern</p>
-      <a href="#" className=" flex w-full max-w-32 container mx-auto justify-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">
+      <img className="rounded-full w-64 h-64 container mx-auto p-4" src="/assets/images/Website-Photo.png"></img>
+      <a href="/assets/files/Vasishta-Malisetty-Resume-2025.pdf" target="_blank" rel="noopener noreferrer" className="flex w-full max-w-24 container mx-auto outline-solid bg-black-500 hover:bg-white text-white hover:text-black font-bold py-2 px-4 rounded">
         Resume
       </a>
     </div>
