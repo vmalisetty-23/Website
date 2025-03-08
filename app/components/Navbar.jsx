@@ -1,11 +1,16 @@
-import React from 'react'
+import Link from "next/link";
 
-const Navbar = () => {
+export default function Navbar() {
   return (
-    <div>
-      
-    </div>
-  )
+    <nav className="p-4">
+      <div className="container mx-auto flex justify-center">
+        <ul className="flex space-x-6 text-lg">
+          <li><Link href="/" className="hover:text-gray-400">Home</Link></li>
+          <li><Link href="/about" className="hover:text-gray-400">About</Link></li>
+          <li><Link href="/projects" className="hover:text-gray-400">Projects</Link></li>
+          <li><Link href="/contact" className="hover:text-gray-400">Contact</Link></li>
+        </ul>
+      </div>
+    </nav>
+  );
 }
-
-export default Navbar
