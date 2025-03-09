@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <>
       <div>
-        <h1 className="container mx-auto flex justify-center text-5xl font-mono">
+        <h1 className="container mx-auto flex justify-center text-5xl font-mono text-black dark:text-rose-50">
           Vasishta Malisetty
         </h1>
-        <p className="container mx-auto flex justify-center pt-2 pb-2 text-2xl font-mono">
+        <p className="container mx-auto flex justify-center pt-2 pb-2 text-2xl font-mono text-black dark:text-rose-50">
           Electrical & Computer Engineering @ Northeastern
         </p>
         <img
@@ -16,10 +16,10 @@ export default function Home() {
         ></img>
       </div>
       <div className="p-5 container mx-auto max-w-2xl">
-        <h2 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold">
+        <h2 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold text-black dark:text-rose-50">
           ABOUT
         </h2>
-        <p className="text-lg font-mono pb-4">
+        <p className="text-lg font-mono pb-4 text-black dark:text-rose-50">
           Hey! I&apos;m Vasishta Malisetty, an Electrical and Computer Engineering
           major at Northeastern University. Funny enough, I actually started
           college as a biochemistry major, but I quickly realized I wanted
@@ -32,14 +32,14 @@ export default function Home() {
         </p>
         <a
           href="/projects"
-          className="flex w-full max-w-36 container mx-auto outline-solid bg-black-500 hover:bg-white text-white hover:text-black font-bold p-2 rounded font-mono justify-center"
+          className="flex w-full max-w-36 container mx-auto outline-solid bg-black-500 text:black hover:bg-white dark:text-rose-50 hover:text-black font-bold p-2 rounded font-mono justify-center"
         >
           Portfolio
         </a>
       </div>
 
       <div className="p-5 container mx-auto max-w-2xl">
-        <h2 className="text-3xl underline underline-offset-4 py-6 font-mono font-bold">
+        <h2 className="text-3xl underline underline-offset-4 py-6 font-mono font-bold text-black dark: text-rose-50">
           BIO
         </h2>
 
@@ -49,7 +49,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Fall 2004
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-rose-50">
               Born in Pittsburgh, PA
             </h3>
           </li>
@@ -58,7 +58,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Summer 2018
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-rose-50">
               Moved to Hopkinton, MA
             </h3>
           </li>
@@ -67,7 +67,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Summer 2022
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
               Graduated from Hopkinton High School
             </h3>
           </li>
@@ -76,8 +76,8 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Fall 2022
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
-              Attended Northeastern University
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
+              Started attending Northeastern University
             </h3>
           </li>
           <li className="mb-5 ms-4">
@@ -85,7 +85,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Summer 2023
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
               Data Security Intern @ Rite Aid
             </h3>
           </li>
@@ -94,7 +94,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Fall 2023
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
               Hardware Engineer @ Generate Product Development Studio
             </h3>
           </li>
@@ -103,7 +103,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Spring 2024
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
               Hardware Test Engineering Co-op @ Philips
             </h3>
           </li>
@@ -112,7 +112,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Summer 2024
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
               Systems Engineering Intern @ Raytheon
             </h3>
           </li>
@@ -121,7 +121,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               Fall 2024
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
               Lead Electrical Engineer @ Generate Product Development Studio
             </h3>
           </li>
@@ -130,7 +130,7 @@ export default function Home() {
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               PRESENT
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-gray-900 dark:text-rose-50">
               Hardware Development Engineering Co-op @ Amazon Robotics
             </h3>
           </li>
@@ -138,27 +138,28 @@ export default function Home() {
       </div>
 
       <div className="p-5 container mx-auto max-w-2xl">
-        <h3 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold">
+        <h3 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold text-black dark:text-rose-50">
           HOBBIES
         </h3>
-        <p className="text-lg font-mono">
+        <p className="text-lg font-mono text-black dark:text-rose-50">
           Pittsburgh Steelers, Chelsea FC, Chess, Basketball, Video Games, Board
           Games, Clash of Clans
         </p>
       </div>
 
       <div className="p-5 container mx-auto max-w-2xl">
-        <h3 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold">
+        <h3 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold text-black dark:text-rose-50">
           LINKS
         </h3>
+        <div className="flex justify-center">
         <a
           href="/assets/files/Vasishta-Malisetty-Resume-2025.pdf"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-white rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
-            className="w-6 h-6 text-gray-800 dark:text-white"
+            className="w-6 h-6 text-black dark:text-rose-50"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -172,16 +173,16 @@ export default function Home() {
               clipRule="evenodd"
             />
           </svg>
-          <span className="w-full px-2">Resume</span>
+          <span className="w-full px-2 text-black dark:text-rose-50">Resume</span>
         </a>
         <a
           href="https://www.linkedin.com/in/vmalisetty/"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-white rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
-            className="w-6 h-6 text-gray-800 dark:text-white"
+            className="w-6 h-6 text-black dark:text-rose-50"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -196,16 +197,16 @@ export default function Home() {
             />
             <path d="M7.2 8.809H4V19.5h3.2V8.809Z" />
           </svg>
-          <span className="w-full px-2">LinkedIn</span>
+          <span className="w-full px-2 text-black dark:text-rose-50">LinkedIn</span>
         </a>
         <a
           href="https://github.com/vmalisetty-23"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-white rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
-            className="w-6 h-6 text-gray-800 dark:text-white"
+            className="w-6 h-6 text-black dark:text-rose-50"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -219,16 +220,16 @@ export default function Home() {
               clipRule="evenodd"
             />
           </svg>
-          <span className="w-full px-2">GitHub</span>
+          <span className="w-full px-2 text-black dark:text-rose-50">GitHub</span>
         </a>
         <a
           href="https://www.instagram.com/vmalisetty_23/"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-white rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
-            className="w-6 h-6 text-gray-800 dark:text-white"
+            className="w-6 h-6 text-black dark:text-rose-50"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -243,8 +244,9 @@ export default function Home() {
               clipRule="evenodd"
             />
           </svg>
-          <span className="w-full px-2">Instagram</span>
+          <span className="w-full px-2 text-black dark:text-rose-50">Instagram</span>
         </a>
+        </div>
       </div>
     </>
   );
