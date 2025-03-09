@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <nav className="p-4 font-mono">
+    <nav className="pt-4 pb-4 font-mono">
       <div className="container mx-auto flex justify-center">
         <ul className="flex space-x-6 text-lg">
           <li><Link href="/" className="hover:text-gray-400">Home</Link></li>

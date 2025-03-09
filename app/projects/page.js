@@ -24,7 +24,7 @@ export default function Projects() {
               <a
                 href="assets/images/Sensify_Blurb.png"
                 target="_blank"
-          rel="noopener noreferrer"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 Read more
@@ -47,7 +47,7 @@ export default function Projects() {
               <a
                 href="https://github.com/smvumbaco/Sensify-FA24"
                 target="_blank"
-          rel="noopener noreferrer"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 GitHub
@@ -94,7 +94,7 @@ export default function Projects() {
               <a
                 href="assets/images/C-STAR_Blurb.png"
                 target="_blank"
-          rel="noopener noreferrer"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 Read more
@@ -117,7 +117,7 @@ export default function Projects() {
               <a
                 href="https://github.com/GenerateNU/Concrete"
                 target="_blank"
-          rel="noopener noreferrer"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 GitHub
@@ -164,7 +164,7 @@ export default function Projects() {
               <a
                 href="assets/images/SEBIK_Blurb.png"
                 target="_blank"
-          rel="noopener noreferrer"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 Read more
@@ -187,7 +187,7 @@ export default function Projects() {
               <a
                 href="https://github.com/GenerateNU/SEBIK"
                 target="_blank"
-          rel="noopener noreferrer"
+                rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 GitHub
