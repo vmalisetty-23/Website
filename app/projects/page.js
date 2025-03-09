@@ -7,7 +7,7 @@ export default function Projects() {
             <img
               className="rounded-t-xs"
               src="/assets/images/Sensify.png"
-              alt=""
+              alt="Sensify"
             />
           </a>
           <div className="p-5">
@@ -77,7 +77,7 @@ export default function Projects() {
             <img
               className="rounded-t-xs"
               src="/assets/images/C-STAR.jpg"
-              alt=""
+              alt="C-STAR"
             />
           </a>
           <div className="p-5">
@@ -147,7 +147,7 @@ export default function Projects() {
             <img
               className="rounded-t-xs"
               src="/assets/images/SEBIK.png"
-              alt=""
+              alt="SEBIK"
             />
           </a>
           <div className="p-5">

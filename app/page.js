@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <>
@@ -18,14 +20,14 @@ export default function Home() {
           ABOUT
         </h2>
         <p className="text-lg font-mono pb-4">
-          Hey! I'm Vasishta Malisetty, an Electrical and Computer Engineering
+          Hey! I&apos;m Vasishta Malisetty, an Electrical and Computer Engineering
           major at Northeastern University. Funny enough, I actually started
           college as a biochemistry major, but I quickly realized I wanted
-          something more hands-on. That's when I made the switch to Electrical &
-          Computer Engineering, and I've been hooked ever since, exploring both
+          something more hands-on. That&apos;s when I made the switch to Electrical &
+          Computer Engineering, and I&apos;ve been hooked ever since, exploring both
           the software and hardware sides of tech. Outside of work and school,
-          you'll probably find me playing sports, trying new foods, or just
-          hanging out with friends. I'm super passionate about Product
+          you&apos;ll probably find me playing sports, trying new foods, or just
+          hanging out with friends. I&apos;m super passionate about Product
           Development and always looking to meet new people!
         </p>
         <a
