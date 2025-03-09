@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
@@ -10,10 +10,10 @@ export default function Home() {
         <p className="container mx-auto flex justify-center pt-2 pb-2 text-2xl font-mono">
           Electrical & Computer Engineering @ Northeastern
         </p>
-        <Image
+        <img
           className="rounded-full w-64 h-64 container mx-auto pt-2"
           src="/assets/images/Website-Photo.png"
-        ></Image>
+        ></img>
       </div>
       <div className="p-5 container mx-auto max-w-2xl">
         <h2 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold">
