@@ -3,7 +3,7 @@ export default function Contact() {
     <>
       <section className="flex justify-center items-center">
         <div className="container px-6 py-12 mx-auto text-center">
-          <h1 className="mt-2 text-2xl font-mono text-white md:text-3xl">
+          <h1 className="mt-2 text-2xl font-mono text-black dark:text-rose-50 md:text-3xl">
             Get in touch
           </h1>
 
@@ -26,12 +26,12 @@ export default function Contact() {
                 </svg>
               </span>
 
-              <h2 className="mt-4 text-lg font-mono text-white">Email</h2>
+              <h2 className="mt-4 text-lg font-mono text-black dark:text-rose-50">Email</h2>
               <a
                 href="https://outlook.office.com/mail/deeplink/compose/?mailtouri=mailto%3amalisetty.v%40northeastern.edu"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-2 text-white hover:bg-white hover:text-black hover:rounded-3xl p-2 font-mono"
+                className="mt-2 text-black dark:text-rose-50 hover:bg-white hover:text-black hover:rounded-3xl p-2 font-mono"
               >
                 malisetty.v@northeastern.edu
               </a>
@@ -54,8 +54,8 @@ export default function Contact() {
                 </svg>
               </span>
 
-              <h2 className="mt-4 text-lg font-mono text-white">Phone</h2>
-              <p className="mt-2 text-white font-mono">724-420-0353</p>
+              <h2 className="mt-4 text-lg font-mono text-black dark:text-rose-50">Phone</h2>
+              <p className="mt-2 text-black dark:text-rose-50 font-mono">724-420-0353</p>
             </div>
           </div>
         </div>
