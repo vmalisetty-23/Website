@@ -31,7 +31,7 @@ export default function Contact() {
                 href="https://outlook.office.com/mail/deeplink/compose/?mailtouri=mailto%3amalisetty.v%40northeastern.edu"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-2 text-black hover:bg-black dark:hover:text-rose-50 dark:text-rose-50 dark:hover:bg-white dark:hover:text-black hover:rounded-3xl p-2 font-mono"
+                className="mt-2 text-black hover:bg-black hover:text-rose-50 dark:text-rose-50 dark:hover:bg-white dark:hover:text-black hover:rounded-3xl p-2 font-mono"
               >
                 malisetty.v@northeastern.edu
               </a>
