@@ -32,14 +32,14 @@ export default function Home() {
         </p>
         <a
           href="/projects"
-          className="flex w-full max-w-36 container mx-auto outline-solid bg-black-500 text:black hover:bg-white dark:text-rose-50 hover:text-black font-bold p-2 rounded font-mono justify-center"
+          className="flex w-full max-w-36 container mx-auto outline-solid bg-black-500 text:black hover:bg-black hover:text-white dark:hover:bg-white dark:text-rose-50 dark:hover:text-black font-bold p-2 rounded font-mono justify-center"
         >
           Portfolio
         </a>
       </div>
 
       <div className="p-5 container mx-auto max-w-2xl">
-        <h2 className="text-3xl underline underline-offset-4 py-6 font-mono font-bold text-black dark: text-rose-50">
+        <h2 className="text-3xl underline underline-offset-4 py-6 font-mono font-bold text-black dark:text-rose-50">
           BIO
         </h2>
 
@@ -151,12 +151,11 @@ export default function Home() {
         <h3 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold text-black dark:text-rose-50">
           LINKS
         </h3>
-        <div className="flex justify-center">
         <a
           href="/assets/files/Vasishta-Malisetty-Resume-2025.pdf"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:hover:outline-solid dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
             className="w-6 h-6 text-black dark:text-rose-50"
@@ -179,7 +178,7 @@ export default function Home() {
           href="https://www.linkedin.com/in/vmalisetty/"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:hover:outline-solid dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
             className="w-6 h-6 text-black dark:text-rose-50"
@@ -203,7 +202,7 @@ export default function Home() {
           href="https://github.com/vmalisetty-23"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:hover:outline-solid dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
             className="w-6 h-6 text-black dark:text-rose-50"
@@ -226,7 +225,7 @@ export default function Home() {
           href="https://www.instagram.com/vmalisetty_23/"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:text-rose-50 rounded-lg hover:outline-solid"
+          className="inline-flex items-center justify-center p-3 text-base font-mono text-black dark:hover:outline-solid dark:text-rose-50 rounded-lg hover:outline-solid"
         >
           <svg
             className="w-6 h-6 text-black dark:text-rose-50"
@@ -246,7 +245,6 @@ export default function Home() {
           </svg>
           <span className="w-full px-2 text-black dark:text-rose-50">Instagram</span>
         </a>
-        </div>
       </div>
     </>
   );
