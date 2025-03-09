@@ -12,7 +12,7 @@ export default function Projects() {
           </a>
           <div className="p-5">
             <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black">
+              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
                 Sensify
               </h5>
             </a>
@@ -25,7 +25,7 @@ export default function Projects() {
                 href="assets/images/Sensify_Blurb.png"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
+                className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 Read more
                 <svg
@@ -48,7 +48,7 @@ export default function Projects() {
                 href="https://github.com/smvumbaco/Sensify-FA24"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
+                className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 GitHub
                 <svg
@@ -82,7 +82,7 @@ export default function Projects() {
           </a>
           <div className="p-5">
             <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black">
+              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
                 C-STAR
               </h5>
             </a>
@@ -95,7 +95,7 @@ export default function Projects() {
                 href="assets/images/C-STAR_Blurb.png"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
+                className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 Read more
                 <svg
@@ -118,7 +118,7 @@ export default function Projects() {
                 href="https://github.com/GenerateNU/Concrete"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
+                className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 GitHub
                 <svg
@@ -152,7 +152,7 @@ export default function Projects() {
           </a>
           <div className="p-5">
             <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black">
+              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
                 SEBIK
               </h5>
             </a>
@@ -165,7 +165,7 @@ export default function Projects() {
                 href="assets/images/SEBIK_Blurb.png"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
+                className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 Read more
                 <svg
@@ -188,7 +188,7 @@ export default function Projects() {
                 href="https://github.com/GenerateNU/SEBIK"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
+                className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 GitHub
                 <svg
