@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="container mx-auto flex justify-center text-4xl font-mono text-black dark:text-white font-bold">
           Vasishta Malisetty
         </h1>
-        <p className="container mx-auto flex justify-center pt-2 pb-2 text-xl font-mono text-black dark:text-white">
+        <p className="container mx-auto flex justify-center pt-2 pb-2 text-lg font-mono text-black dark:text-white font-bold">
           Electrical & Computer Engineering @ Northeastern
         </p>
         <img
