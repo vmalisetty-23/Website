@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <>
       <div>
-        <h1 className="container mx-auto flex justify-center text-5xl font-mono text-black dark:text-white">
+        <h1 className="container mx-auto flex justify-center text-4xl font-mono text-black dark:text-white font-bold">
           Vasishta Malisetty
         </h1>
-        <p className="container mx-auto flex justify-center pt-2 pb-2 text-2xl font-mono text-black dark:text-white">
+        <p className="container mx-auto flex justify-center pt-2 pb-2 text-xl font-mono text-black dark:text-white">
           Electrical & Computer Engineering @ Northeastern
         </p>
         <img
