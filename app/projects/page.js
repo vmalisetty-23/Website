@@ -44,7 +44,7 @@ export default function Projects() {
                 </svg>
               </a>
               <a
-                href="https://github.com/smvumbaco/Sensify-FA24"
+                href="https://github.com/GenerateNU/plaitpilot-fw-sp25"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
