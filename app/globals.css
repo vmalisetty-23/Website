@@ -1,25 +1,27 @@
 @import "tailwindcss";
 
 .typing {
+  display: inline-block;
   overflow: hidden;
-  border-right: .15em solid orange;
+  border-right: .15em solid white;
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .15em;
   animation:
-    typing 2s steps(20, end) infinite,
+    typing 4s steps(20, end) infinite,
     blink-caret .75s step-end infinite;
 }
 
 @keyframes typing {
   0% { width: 0 }
-  50% { width: 100% }
+  40%  { width: 100% }   /* slower typing */
+  60%  { width: 100% }   /* pause fully typed */
   100% { width: 0 }
 }
 
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange; }
+  50% { border-color: white; }
 }
 
 
