@@ -125,7 +125,7 @@ export default function Home() {
               Lead Electrical Engineer @ Generate Product Development Studio
             </h3>
           </li>
-          <li className="ms-4">
+          <li className="mb-5 ms-4">
             <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               SPRING & SUMMER 2025
