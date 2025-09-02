@@ -8,7 +8,7 @@ export default function Home() {
           Vasishta Malisetty
         </h1>
         <p className="container mx-auto flex justify-center pt-2 pb-2 text-xl font-mono text-black dark:text-white">
-          Electrical & Computer Engineering @ Northeastern
+          ECE @ Northeastern
         </p>
         <img
           className="rounded-full w-64 h-64 container mx-auto pt-2"
@@ -132,6 +132,15 @@ export default function Home() {
             </time>
             <h3 className="text-lg font-mono text-gray-900 dark:text-white">
               Hardware Development Engineering Co-op @ Amazon Robotics
+            </h3>
+          </li>
+          <li className="mb-5 ms-4">
+            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
+              PRESENT
+            </time>
+            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+              Chief Electrical & Computer Engineer @ Generate Product Development Studio
             </h3>
           </li>
         </ol>
