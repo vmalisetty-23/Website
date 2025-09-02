@@ -8,7 +8,7 @@ export default function Home() {
           Vasishta Malisetty
         </h1>
         <p className="container mx-auto flex justify-center pt-2 pb-2 text-xl font-mono text-black dark:text-white">
-          <span class ="typing">ECE @ Northeastern</span>
+          <span>ECE @ Northeastern</span>
         </p>
         <img
           className="rounded-full w-64 h-64 container mx-auto pt-2"
