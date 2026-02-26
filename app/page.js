@@ -27,8 +27,8 @@ export default function Home() {
           Computer Engineering, and I&apos;ve been hooked ever since, exploring both
           the software and hardware sides of tech. Outside of work and school,
           you&apos;ll probably find me playing sports, trying new foods, or just
-          hanging out with friends. I&apos;m super passionate about Product
-          Development and always looking to meet new people!
+          hanging out with friends. I&apos;m super passionate about product
+          development and always looking to meet new people!
         </p>
         <a
           href="/projects"
@@ -137,10 +137,28 @@ export default function Home() {
           <li className="mb-5 ms-4">
             <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              PRESENT
+              FALL 2025
             </time>
             <h3 className="text-lg font-mono text-gray-900 dark:text-white">
               Chief Electrical & Computer Engineer @ Generate Product Development Studio
+            </h3>
+          </li>
+          <li className="mb-5 ms-4">
+            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
+              SPRING 2026
+            </time>
+            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+              Project Lead @ Generate Product Development Studio
+            </h3>
+          </li>
+          <li className="mb-5 ms-4">
+            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
+              PRESENT
+            </time>
+            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+              Hardware Development Engineer I @ Amazon Robotics
             </h3>
           </li>
         </ol>
