@@ -5,9 +5,9 @@ export default function Projects() {
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
-              className="rounded-t-xs"
+              className="rounded-t-xs h-32"
               src="assets/images/InductiSense.png"
-              alt="Plaitpilot"
+              alt="InductiSense"
             />
           </a>
           <div className="p-5">

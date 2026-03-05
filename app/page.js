@@ -199,7 +199,7 @@ export default function Home() {
               clipRule="evenodd"
             />
           </svg>
-          <span className="w-full px-2 text-black dark:text-white">Resume</span>
+          <span className="w-full px-2 justify-center text-black dark:text-white">Resume</span>
         </a>
         <a
           href="https://www.linkedin.com/in/vmalisetty/"
@@ -223,7 +223,7 @@ export default function Home() {
             />
             <path d="M7.2 8.809H4V19.5h3.2V8.809Z" />
           </svg>
-          <span className="w-full px-2 text-black dark:text-white">LinkedIn</span>
+          <span className="w-full px-2 justify-center text-black dark:text-white">LinkedIn</span>
         </a>
         <a
           href="https://github.com/vmalisetty-23"
@@ -246,7 +246,7 @@ export default function Home() {
               clipRule="evenodd"
             />
           </svg>
-          <span className="w-full px-2 text-black dark:text-white">GitHub</span>
+          <span className="w-full px-2 justify-center text-black dark:text-white">GitHub</span>
         </a>
         <a
           href="https://www.instagram.com/vmalisetty_23/"
@@ -270,7 +270,7 @@ export default function Home() {
               clipRule="evenodd"
             />
           </svg>
-          <span className="w-full px-2 text-black dark:text-white">Instagram</span>
+          <span className="w-full px-2 justify-center text-black dark:text-white">Instagram</span>
         </a>
       </div>
     </>
