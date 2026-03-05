@@ -49,7 +49,7 @@ export default function Projects() {
                 rel="noopener noreferrer"
                 className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
-                Presentation
+                Slides
                 <svg
                   className="w-3.5 h-3.5 ms-2 rtl:rotate-180"
                   aria-hidden="true"
