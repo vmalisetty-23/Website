@@ -5,7 +5,7 @@ export default function Projects() {
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
-              className="rounded-t-xs ml-20 h-80 w-140 justify-center"
+              className="rounded-t-xs ml-10 h-80 w-140 justify-center"
               src="assets/images/InductiSense.png"
               alt="InductiSense"
             />
