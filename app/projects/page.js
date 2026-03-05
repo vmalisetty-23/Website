@@ -50,12 +50,20 @@ export default function Projects() {
                 className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg hover:outline-solid"
               >
                 Presentation
-                <svg 
-                  xmlns="http://www.w3.org/2000/svg" 
-                  xmlns:xlink="http://www.w3.org/1999/xlink" 
-                  fill="#000000" w-6 h-6 ms-2 version="1.1" id="Capa_1" viewBox="0 0 473.449 473.449" xml:space="preserve"
-                  >
-                    <path xmlns="http://www.w3.org/2000/svg" id="XMLID_183_" d="M335.955,363.823l-32.926-149.422h64.366c6.71,0,12.149-5.439,12.149-12.143V19.344 c0-6.703-5.439-12.143-12.149-12.143H165.643c-6.71,0-12.149,5.439-12.149,12.143v85.685l8.779-10.257 c4.167-4.888,9.683-7.891,15.521-9.147V31.486h177.453v158.63H177.793v-26.56l-5.485,6.404c-4.765,5.578-11.522,9.024-18.814,9.715 v22.583c0,6.704,5.439,12.143,12.149,12.143h65.133l-21.482,97.513c7.938-5.57,17.482-8.886,27.793-9.316l19.412-88.196h20.807 l34.105,154.83c1.502,6.779,8.305,11.009,14.969,9.562C333.166,377.298,337.442,370.603,335.955,363.823z"/>
+                <svg
+                  className="w-3.5 h-3.5 ms-2 rtl:rotate-180"
+                  aria-hidden="true"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 14 10"
+                >
+                  <path
+                    stroke="currentColor"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
+                    d="M1 5h12m0 0L9 1m4 4L9 9"
+                  />
                 </svg>
               </a>
             </div>
