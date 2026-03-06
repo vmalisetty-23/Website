@@ -21,7 +21,7 @@ export default function Projects() {
             </p>
             <div className="flex gap-18">
               <a
-                href="https://docs.google.com/presentation/d/1ljykzunwFyWQSMAsyiHnKABz3bNE4vpDeGchrqIVn4c/edit?usp=sharing"
+                href="assets/images/InductiSense_Blurb.png"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg dark:hover:outline-solid hover:outline-solid"
