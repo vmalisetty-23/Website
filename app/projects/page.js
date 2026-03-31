@@ -2,24 +2,20 @@ export default function Projects() {
   return (
     <>
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6 max-w-5xl mx-auto">
-        <div className="max-w-sm bg-white rounded-xs">
-          <a>
-            <img
-              className="rounded-t-xs h-80 w-140 justify-center"
-              src="assets/images/InductiSense.png"
-              alt="InductiSense"
-            />
-          </a>
-          <div className="p-5">
-            <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
-                InductiSense
-              </h5>
-            </a>
+        <div className="bg-white rounded-xs flex flex-col">
+          <img
+            className="rounded-t-xs h-48 w-full object-cover"
+            src="assets/images/InductiSense.png"
+            alt="InductiSense"
+          />
+          <div className="p-5 flex flex-col flex-1">
+            <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
+              InductiSense
+            </h5>
             <p className="mb-3 font-mono text-black">
               InductiSense is a self-powered LoRa mesh network with BLE integration & sensor telemetry.
             </p>
-            <div className="flex gap-18">
+            <div className="flex gap-18 mt-auto">
               <a
                 href="assets/images/InductiSense_Blurb.png"
                 target="_blank"
@@ -69,24 +65,20 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="max-w-sm bg-white rounded-xs">
-          <a>
-            <img
-              className="rounded-t-xs"
-              src="/assets/images/Plaitpilot.jpeg"
-              alt="Plaitpilot"
-            />
-          </a>
-          <div className="p-5">
-            <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
-                Plaitpilot
-              </h5>
-            </a>
+        <div className="bg-white rounded-xs flex flex-col">
+          <img
+            className="rounded-t-xs h-48 w-full object-cover"
+            src="/assets/images/Plaitpilot.jpeg"
+            alt="Plaitpilot"
+          />
+          <div className="p-5 flex flex-col flex-1">
+            <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
+              Plaitpilot
+            </h5>
             <p className="mb-3 font-mono text-black">
               Plaitpilot is a a machine that reduces hair extension prep time from hours to seconds.
             </p>
-            <div className="flex gap-18">
+            <div className="flex gap-18 mt-auto">
               <a
                 href="assets/images/Plaitpilot_Blurb.png"
                 target="_blank"
@@ -136,25 +128,21 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="max-w-sm bg-white rounded-xs">
-          <a>
-            <img
-              className="rounded-t-xs"
-              src="/assets/images/Sensify.png"
-              alt="Sensify"
-            />
-          </a>
-          <div className="p-5">
-            <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
-                Sensify
-              </h5>
-            </a>
+        <div className="bg-white rounded-xs flex flex-col">
+          <img
+            className="rounded-t-xs h-48 w-full object-cover"
+            src="/assets/images/Sensify.png"
+            alt="Sensify"
+          />
+          <div className="p-5 flex flex-col flex-1">
+            <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
+              Sensify
+            </h5>
             <p className="mb-3 font-mono text-black">
               Sensify is a modular VR controller that enhances training
               simulations.
             </p>
-            <div className="flex gap-18">
+            <div className="flex gap-18 mt-auto">
               <a
                 href="assets/images/Sensify_Blurb.png"
                 target="_blank"
@@ -204,25 +192,21 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="max-w-sm bg-white rounded-xs">
-          <a>
-            <img
-              className="rounded-t-xs"
-              src="/assets/images/C-STAR.jpg"
-              alt="C-STAR"
-            />
-          </a>
-          <div className="p-5">
-            <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
-                C-STAR
-              </h5>
-            </a>
+        <div className="bg-white rounded-xs flex flex-col">
+          <img
+            className="rounded-t-xs h-48 w-full object-cover"
+            src="/assets/images/C-STAR.jpg"
+            alt="C-STAR"
+          />
+          <div className="p-5 flex flex-col flex-1">
+            <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
+              C-STAR
+            </h5>
             <p className="mb-3 font-mono text-black">
               C-STAR is an autonomous concrete sounding robot that detects
               delaminations in concrete structures.
             </p>
-            <div className="flex gap-18">
+            <div className="flex gap-18 mt-auto">
               <a
                 href="assets/images/C-STAR_Blurb.png"
                 target="_blank"
@@ -272,25 +256,21 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="max-w-sm bg-white rounded-xs">
-          <a>
-            <img
-              className="rounded-t-xs"
-              src="/assets/images/SEBIK.png"
-              alt="SEBIK"
-            />
-          </a>
-          <div className="p-5">
-            <a>
-              <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
-                SEBIK
-              </h5>
-            </a>
+        <div className="bg-white rounded-xs flex flex-col">
+          <img
+            className="rounded-t-xs h-48 w-full object-cover"
+            src="/assets/images/SEBIK.png"
+            alt="SEBIK"
+          />
+          <div className="p-5 flex flex-col flex-1">
+            <h5 className="mb-2 text-2xl font-mono tracking-tight text-black font-bold">
+              SEBIK
+            </h5>
             <p className="mb-3 font-mono text-black">
               SEBIK is an automated table top injection molder that produces 1
               common medical product every 4 minutes.
             </p>
-            <div className="flex gap-18">
+            <div className="flex gap-18 mt-auto">
               <a
                 href="assets/images/SEBIK_Blurb.png"
                 target="_blank"
