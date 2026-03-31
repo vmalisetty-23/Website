@@ -69,7 +69,6 @@ export default function Projects() {
             </div>
           </div>
         </div>
-      </div>
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
@@ -137,7 +136,6 @@ export default function Projects() {
             </div>
           </div>
         </div>
-      </div>
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
@@ -206,7 +204,6 @@ export default function Projects() {
             </div>
           </div>
         </div>
-      </div>
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
@@ -275,7 +272,6 @@ export default function Projects() {
             </div>
           </div>
         </div>
-      </div>
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
