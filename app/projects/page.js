@@ -15,7 +15,7 @@ export default function Projects() {
             <p className="mb-3 font-mono text-black">
               InductiSense is a self-powered LoRa mesh network with BLE integration & sensor telemetry.
             </p>
-            <div className="flex gap-18 mt-auto">
+            <div className="flex gap-2 mt-auto">
               <a
                 href="assets/images/InductiSense_Blurb.png"
                 target="_blank"
@@ -78,7 +78,7 @@ export default function Projects() {
             <p className="mb-3 font-mono text-black">
               Plaitpilot is a a machine that reduces hair extension prep time from hours to seconds.
             </p>
-            <div className="flex gap-18 mt-auto">
+            <div className="flex gap-2 mt-auto">
               <a
                 href="assets/images/Plaitpilot_Blurb.png"
                 target="_blank"
@@ -142,7 +142,7 @@ export default function Projects() {
               Sensify is a modular VR controller that enhances training
               simulations.
             </p>
-            <div className="flex gap-18 mt-auto">
+            <div className="flex gap-2 mt-auto">
               <a
                 href="assets/images/Sensify_Blurb.png"
                 target="_blank"
@@ -206,7 +206,7 @@ export default function Projects() {
               C-STAR is an autonomous concrete sounding robot that detects
               delaminations in concrete structures.
             </p>
-            <div className="flex gap-18 mt-auto">
+            <div className="flex gap-2 mt-auto">
               <a
                 href="assets/images/C-STAR_Blurb.png"
                 target="_blank"
@@ -270,7 +270,7 @@ export default function Projects() {
               SEBIK is an automated table top injection molder that produces 1
               common medical product every 4 minutes.
             </p>
-            <div className="flex gap-18 mt-auto">
+            <div className="flex gap-2 mt-auto">
               <a
                 href="assets/images/SEBIK_Blurb.png"
                 target="_blank"
