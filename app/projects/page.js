@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
     <>
-    <div className="flex flex-wrap justify-center gap-6 pt-5">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6 max-w-5xl mx-auto">
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
@@ -70,7 +70,6 @@ export default function Projects() {
           </div>
         </div>
       </div>
-    <div className="flex flex-wrap justify-center gap-6 pt-5">
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
@@ -139,7 +138,6 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <div className="flex flex-wrap justify-center gap-6 pt-5">
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
@@ -209,7 +207,6 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <div className="flex flex-wrap justify-center gap-6 pt-5">
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
@@ -279,7 +276,6 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <div className="flex flex-wrap justify-center gap-6 pt-5">
         <div className="max-w-sm bg-white rounded-xs">
           <a>
             <img
