@@ -3,15 +3,15 @@ import Typewriter from "./components/Typewriter";
 export default function Home() {
   return (
     <>
-      <div className="pt-10">
-        <h1 className="container mx-auto flex justify-center text-4xl font-mono text-black dark:text-white font-bold">
+      <div className="flex flex-col items-center justify-center min-h-[calc(100svh-65px)] gap-4">
+        <h1 className="text-4xl font-mono text-black dark:text-white font-bold">
           Vasishta Malisetty
         </h1>
-        <p className="container mx-auto flex justify-center pt-2 pb-2 text-xl font-mono text-black dark:text-white">
+        <p className="text-xl font-mono text-black dark:text-white">
           <Typewriter />
         </p>
         <img
-          className="rounded-full w-64 h-64 container mx-auto pt-2"
+          className="rounded-full w-64 h-64 object-cover"
           src="/assets/images/Website-Photo.png"
         ></img>
       </div>
