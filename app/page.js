@@ -15,7 +15,7 @@ export default function Home() {
           src="/assets/images/Website-Photo.png"
         ></img>
       </div>
-      <div id="about" className="p-5 container mx-auto max-w-2xl scroll-mt-4 min-h-[calc(100svh-65px)] flex flex-col justify-center">
+      <div id="about" className="p-5 container mx-auto max-w-2xl scroll-mt-20 min-h-[calc(100svh-65px)] flex flex-col justify-center">
         <h2 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold text-black dark:text-white">
           ABOUT
         </h2>
@@ -38,7 +38,7 @@ export default function Home() {
         </a>
       </div>
 
-      <div id="bio" className="p-5 container mx-auto max-w-2xl scroll-mt-4 min-h-[calc(100svh-65px)] flex flex-col justify-center">
+      <div id="bio" className="p-5 container mx-auto max-w-2xl scroll-mt-20 min-h-[calc(100svh-65px)] flex flex-col justify-center">
         <h2 className="text-3xl underline underline-offset-4 py-6 font-mono font-bold text-black dark:text-white">
           BIO
         </h2>
