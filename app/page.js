@@ -1,14 +1,14 @@
-// import Image from "next/image";
+import Typewriter from "./components/Typewriter";
 
 export default function Home() {
   return (
     <>
-      <div>
+      <div className="pt-10">
         <h1 className="container mx-auto flex justify-center text-4xl font-mono text-black dark:text-white font-bold">
           Vasishta Malisetty
         </h1>
         <p className="container mx-auto flex justify-center pt-2 pb-2 text-xl font-mono text-black dark:text-white">
-          <span>ECE @ Northeastern</span>
+          <Typewriter />
         </p>
         <img
           className="rounded-full w-64 h-64 container mx-auto pt-2"
