@@ -2,9 +2,9 @@ export default function Projects() {
   return (
     <>
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6 max-w-5xl mx-auto">
-        <div className="bg-white rounded-xs flex flex-col">
+        <div className="bg-white rounded-xs flex flex-col min-h-[calc(100svh-65px-3rem)]">
           <img
-            className="rounded-t-xs h-48 w-full object-cover"
+            className="rounded-t-xs w-full object-cover flex-1 min-h-0"
             src="assets/images/InductiSense.png"
             alt="InductiSense"
           />
@@ -65,9 +65,9 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="bg-white rounded-xs flex flex-col">
+        <div className="bg-white rounded-xs flex flex-col min-h-[calc(100svh-65px-3rem)]">
           <img
-            className="rounded-t-xs h-48 w-full object-cover"
+            className="rounded-t-xs w-full object-cover flex-1 min-h-0"
             src="/assets/images/Plaitpilot.jpeg"
             alt="Plaitpilot"
           />
@@ -128,9 +128,9 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="bg-white rounded-xs flex flex-col">
+        <div className="bg-white rounded-xs flex flex-col min-h-[calc(100svh-65px-3rem)]">
           <img
-            className="rounded-t-xs h-48 w-full object-cover"
+            className="rounded-t-xs w-full object-cover flex-1 min-h-0"
             src="/assets/images/Sensify.png"
             alt="Sensify"
           />
@@ -192,9 +192,9 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="bg-white rounded-xs flex flex-col">
+        <div className="bg-white rounded-xs flex flex-col min-h-[calc(100svh-65px-3rem)]">
           <img
-            className="rounded-t-xs h-48 w-full object-cover"
+            className="rounded-t-xs w-full object-cover flex-1 min-h-0"
             src="/assets/images/C-STAR.jpg"
             alt="C-STAR"
           />
@@ -256,9 +256,9 @@ export default function Projects() {
             </div>
           </div>
         </div>
-        <div className="bg-white rounded-xs flex flex-col">
+        <div className="bg-white rounded-xs flex flex-col min-h-[calc(100svh-65px-3rem)]">
           <img
-            className="rounded-t-xs h-48 w-full object-cover"
+            className="rounded-t-xs w-full object-cover flex-1 min-h-0"
             src="/assets/images/SEBIK.png"
             alt="SEBIK"
           />
