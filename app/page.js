@@ -41,7 +41,7 @@ export default function Home() {
           </div>
           <div className="flex-1 flex justify-center">
             <img
-              src="/assets/images/Presenting.jpeg"
+              src="/assets/images/About.jpg"
               alt="Vasishta presenting"
               className="rounded-xl w-full max-w-md object-cover"
             />
