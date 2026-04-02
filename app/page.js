@@ -15,27 +15,38 @@ export default function Home() {
           src="/assets/images/Website-Photo.png"
         ></img>
       </div>
-      <div id="about" className="p-5 container mx-auto max-w-2xl scroll-mt-20 min-h-[calc(100svh-65px)] flex flex-col justify-center">
-        <h2 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold text-black dark:text-white">
-          ABOUT
-        </h2>
-        <p className="text-lg font-mono pb-4 text-black dark:text-white">
-          Hey! I&apos;m Vasishta Malisetty, an Electrical and Computer Engineering
-          major at Northeastern University. Funny enough, I actually started
-          college as a biochemistry major, but I quickly realized I wanted
-          something more hands-on. That&apos;s when I made the switch to Electrical &
-          Computer Engineering, and I&apos;ve been hooked ever since, exploring both
-          the software and hardware sides of tech. Outside of work and school,
-          you&apos;ll probably find me playing sports, trying new foods, or just
-          hanging out with friends. I&apos;m super passionate about product
-          development and always looking to meet new people!
-        </p>
-        <a
-          href="/projects"
-          className="flex w-full max-w-36 container mx-auto outline-solid bg-black-500 text:black hover:bg-black hover:text-white dark:hover:bg-white dark:text-white dark:hover:text-black font-bold p-2 rounded font-mono justify-center"
-        >
-          Portfolio
-        </a>
+      <div id="about" className="p-5 container mx-auto max-w-5xl scroll-mt-20 min-h-[calc(100svh-65px)] flex flex-col justify-center">
+        <div className="flex flex-col md:flex-row items-center gap-10">
+          <div className="flex-1">
+            <h2 className="text-3xl underline underline-offset-4 py-2 font-mono font-bold text-black dark:text-white">
+              ABOUT
+            </h2>
+            <p className="text-lg font-mono pb-4 text-black dark:text-white">
+              Hey! I&apos;m Vasishta Malisetty, an Electrical and Computer Engineering
+              major at Northeastern University. Funny enough, I actually started
+              college as a biochemistry major, but I quickly realized I wanted
+              something more hands-on. That&apos;s when I made the switch to Electrical &
+              Computer Engineering, and I&apos;ve been hooked ever since, exploring both
+              the software and hardware sides of tech. Outside of work and school,
+              you&apos;ll probably find me playing sports, trying new foods, or just
+              hanging out with friends. I&apos;m super passionate about product
+              development and always looking to meet new people!
+            </p>
+            <a
+              href="/projects"
+              className="flex w-full max-w-36 container mx-auto outline-solid bg-black-500 text:black hover:bg-black hover:text-white dark:hover:bg-white dark:text-white dark:hover:text-black font-bold p-2 rounded font-mono justify-center"
+            >
+              Portfolio
+            </a>
+          </div>
+          <div className="flex-1 flex justify-center">
+            <img
+              src="/assets/images/Presenting.jpeg"
+              alt="Vasishta presenting"
+              className="rounded-xl w-full max-w-md object-cover"
+            />
+          </div>
+        </div>
       </div>
 
       <div id="bio" className="p-5 container mx-auto max-w-2xl scroll-mt-20 min-h-[calc(100svh-65px)] flex flex-col justify-center">
