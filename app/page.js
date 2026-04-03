@@ -56,119 +56,119 @@ export default function Home() {
 
         <ol className="relative border-s border-gray-200 dark:border-gray-700">
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Fall 2004
+              FALL 2004
             </time>
             <h3 className="text-lg font-mono text-black dark:text-white">
               Born in Pittsburgh, PA
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Summer 2018
+              SUMMER 2018
             </time>
             <h3 className="text-lg font-mono text-black dark:text-white">
               Moved to Hopkinton, MA
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Summer 2022
+              SUMMER 2022
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Graduated from Hopkinton High School
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Fall 2022
+              FALL 2022
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Started attending Northeastern University
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Summer 2023
+              SUMMER 2023
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Data Security Intern @ Rite Aid
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Fall 2023
+              FALL 2023
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Hardware Engineer @ Generate Product Development Studio
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Spring 2024
+              SPRING 2024
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Hardware Test Engineering Co-op @ Philips
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Summer 2024
+              SUMMER 2024
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Systems Engineering Intern @ Raytheon
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
-              Fall 2024
+              FALL 2024
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Lead Electrical Engineer @ Generate Product Development Studio
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               SPRING & SUMMER 2025
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Hardware Development Engineering Co-op @ Amazon Robotics
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               FALL 2025
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Chief Electrical & Computer Engineer @ Generate Product Development Studio
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
             <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               SPRING 2026
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Project Lead @ Generate Product Development Studio
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-            <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
+            <div className="absolute w-4 h-4 bg-white dark:bg-white rounded-full mt-1 -start-2 ring-2 ring-black dark:ring-white"></div>
+            <time className="mb-1 text-sm font-mono leading-none font-bold text-black dark:text-white">
               PRESENT
             </time>
-            <h3 className="text-lg font-mono text-gray-900 dark:text-white">
+            <h3 className="text-lg font-mono font-bold text-black dark:text-white">
               Hardware Development Engineer I @ Amazon Robotics
             </h3>
           </li>
