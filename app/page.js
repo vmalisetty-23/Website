@@ -164,11 +164,11 @@ export default function Home() {
             </h3>
           </li>
           <li className="mb-5 ms-4">
-            <div className="absolute w-4 h-4 bg-white dark:bg-white rounded-full mt-1 -start-2 ring-2 ring-black dark:ring-white"></div>
-            <time className="mb-1 text-sm font-mono leading-none font-bold text-black dark:text-white">
+            <div className="absolute w-3 h-3 bg-gray-400 dark:bg-white rounded-full mt-1.5 -start-1.5"></div>
+            <time className="mb-1 text-sm font-mono leading-none text-gray-400 dark:text-gray-500">
               PRESENT
             </time>
-            <h3 className="text-lg font-mono font-bold text-black dark:text-white">
+            <h3 className="text-lg font-mono text-black dark:text-white">
               Hardware Development Engineer I @ Amazon Robotics
             </h3>
           </li>
