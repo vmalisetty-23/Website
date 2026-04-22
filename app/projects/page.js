@@ -13,11 +13,11 @@ export default function Projects() {
               Acrylix
             </h5>
             <p className="mb-3 font-mono text-black">
-              Acrylix is a automated, tabletop machine that precisely bends acrylic at a fraction of the cost, labor, and size
+              Acrylix is a machine that precisely bends acrylic at a fraction of the cost, labor, and size.
             </p>
             <div className="flex gap-2 mt-auto">
               <a
-                href="assets/images/Plaitpilot_Blurb.png"
+                href="assets/images/Acrylix_Blurb.png"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-bold inline-flex items-center px-5 py-2.5 text-sm font-mono text-center text-black rounded-lg dark:hover:outline-solid hover:outline-solid"
